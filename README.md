@@ -1,2 +1,2 @@
 # Pong
-Retro Pong game. Each time a player hits the ball, it gets faster. First person to reach 3 wins.
+Retro Pong Game – Two-player Pong clone built in Python with OOP. The ball speeds up with each hit, and the first player to score 3 points wins.
